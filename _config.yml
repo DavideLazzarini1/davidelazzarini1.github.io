@@ -36,12 +36,12 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=-EBujDMAAAAJ&hl"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0001-8703-5040"
+  orcid            : # "https://orcid.org/0009-0001-8703-5040"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Davide-Lazzarini-4"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=59301726900"
+  scopus           : # "https://www.scopus.com/authid/detail.uri?authorId=59301726900"
   zotero           : # URL
 
 
