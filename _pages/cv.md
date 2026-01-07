@@ -13,7 +13,7 @@ Education
 ======
 
 * **Politecnico di Torino**, Expected 2027  
-  _PhD in Mechanical Engineering_
+  _PhD in Mechanical Engineering_  
   Visiting PhD student at the Universitat Politècnica de Catalunya, Spain,  Sep. 2025 - Dec. 2025.  
   Visiting PhD student at the University of Tokyo, Japan,  Oct. 2024 - Dec. 2024.
 
