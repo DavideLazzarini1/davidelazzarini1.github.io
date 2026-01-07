@@ -28,5 +28,5 @@ Education
 
 Professional Experience
 ======
-* **Hyster-Yale Group**,  Sep. 2022 - Oct 2023  
+* **Hyster-Yale Group**,  Sep. 2022 - Oct. 2023  
   Manufacturing Engineer
