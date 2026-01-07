@@ -19,7 +19,7 @@ Education
 
 * **University of Pavia**, 2022  
   _MSc in Industrial Automation Engineering_  
-  Visiting student at the Centre of Automotive Engineering, University of Surrey, UK,  Mar. 2022 - Aug. 2022.
+  Visiting student at the Centre of Automotive Engineering, University of Surrey, UK,  Mar. 2022 - Aug. 2022.  
   Final grade: 110/110 cum laude
 
 * **University of Pavia**, 2020
