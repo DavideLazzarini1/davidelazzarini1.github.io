@@ -22,7 +22,7 @@ Education
   Visiting student at the Centre of Automotive Engineering, University of Surrey, UK,  Mar. 2022 - Aug. 2022.  
   Final grade: 110/110 cum laude
 
-* **University of Pavia**, 2020
+* **University of Pavia**, 2020  
   _BSc in Industrial Engineering_  
   Final grade: 103/110
 
