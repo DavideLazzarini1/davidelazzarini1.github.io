@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. researcher in Mechanical Engineering at the [Department of Mechanical and Aerospace Engineering](https://www.dimeas.polito.it/en/), Politecnico di Torino, specializing in advanced control for vehicle dynamics.
+I am a PhD researcher in Mechanical Engineering at the [Department of Mechanical and Aerospace Engineering](https://www.dimeas.polito.it/en/), Politecnico di Torino, specializing in advanced control for vehicle dynamics.
 
 I work on model-based and AI-driven control strategies for next-generation dynamic systems.
 My experience includes MiL and HiL validation, as well as experimental testing on full-scale prototype vehicles.
